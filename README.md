@@ -35,3 +35,6 @@ Implementacja algorytmu Prima służącego do znajdowania minimalnego drzewa roz
 
 ### 8. NN (Nearest Neighbour)
 Algorytm najbliższego sąsiada znajduje przybliżone rozwiązanie problemu komiwojażera poprzez iteracyjne wybieranie najbliższego nieodwiedzonego wierzchołka. Program zwraca kolejność odwiedzin oraz sumaryczną wagę trasy, testując działanie na dwóch przykładowych grafach.
+
+### 9. Typing test
+Implementacja programu do treningu szybkiego pisania, który losuje słowa z pliku, mierzy dokładność i tempo, liczy błędy, a także zapisuje wyniki wraz z datą do pliku dla analizy wyników w czasie.
